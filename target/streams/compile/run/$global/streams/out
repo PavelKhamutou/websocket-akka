@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning com.oktafone.Server hey ho[0m
+[0m[[0minfo[0m] [0mRunning com.oktafone.Server RemoteActor 2552 8081[0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/home/pk/IdeaProjects/WebSockets/target/scala-2.11/classes[0m
@@ -20,8 +20,10 @@
 [0m[[0mdebug[0m] [0m	/home/pk/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread akka-system-akka.actor.default-dispatcher-4 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread akka-system-akka.actor.default-dispatcher-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread New I/O worker #2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread akka-system-8 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka-system-akka.actor.default-dispatcher-15 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread akka-system-akka.actor.default-dispatcher-15 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
 [0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m

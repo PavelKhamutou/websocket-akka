@@ -1,6 +1,6 @@
 package com.oktafone.chat
 
-import akka.actor.{Props, ActorSystem}
+import akka.actor.{ActorRef, Props, ActorSystem}
 import akka.http.scaladsl.model.ws.{TextMessage, Message}
 import akka.stream.{FlowShape, OverflowStrategy}
 import akka.stream.scaladsl._
@@ -9,8 +9,13 @@ import com.oktafone.chat.events._
 /**
   * Created by pk on 3/6/16.
   */
-class ChatRoom(roomId: Int, actorSystem: ActorSystem) {
-  private[this] val chatRoomActor = actorSystem.actorOf(Props(classOf[ChatRoomActor], roomId))
+class ChatRoom(roomId: Int, actorSystem: ActorSystem, OptRef: Option[ActorRef] = None) {
+
+  private[this] val chatRoomActor = OptRef match {
+    case Some(ref) => ref
+    case None => actorSystem.actorOf(Props(classOf[ChatRoomActor], roomId), s"room$roomId")
+  }
+
 
   def websocketFlow(user: String): Flow[Message, Message, _] =
     Flow.fromGraph(GraphDSL.create(Source.actorRef[ChatMessage](5, OverflowStrategy.fail)) {
@@ -47,4 +52,5 @@ class ChatRoom(roomId: Int, actorSystem: ActorSystem) {
 
 object ChatRoom {
   def apply(roomId: Int)(implicit actorSystem: ActorSystem) = new ChatRoom(roomId, actorSystem)
+  def apply(roomId: Int, ref: ActorRef)(implicit actorSystem: ActorSystem) = new ChatRoom(roomId, actorSystem, Some(ref))
 }

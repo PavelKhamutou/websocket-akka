@@ -4,7 +4,7 @@
 		module="websockets$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160306211920"
+		publication="20160307180916"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

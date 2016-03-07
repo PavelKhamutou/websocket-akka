@@ -8,21 +8,21 @@ import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Directives
 import akka.stream.ActorMaterializer
 import akka.actor._
+
 import com.oktafone.chat.ChatRooms
 import com.typesafe.config.ConfigFactory
 
 import scala.io.StdIn
 
-object Server extends App {
+object LocalServer extends App {
 
-  val setting = args(0)
-  val config = ConfigFactory.load.getConfig(setting)
-  implicit val actorSystem = ActorSystem("akka-system", config)
+  val config = ConfigFactory.load.getConfig("LocalSystem")
+  implicit val actorSystem = ActorSystem("akka-local-system", config)
   implicit val flowMaterializer = ActorMaterializer()
 
-
+  ChatRooms.remote = "8081"
   val interface = "localhost"
-  val port = 8080
+  val port = config.getInt("port")
 
   import Directives._
 
@@ -32,11 +32,6 @@ object Server extends App {
     }
   }
 
-  /*def chatTest = pathPrefix("chatTest" / IntNumber) { chatId =>
-    parameter('name) { userName =>
-      handleWebSocketMessages(ChatRooms.findOrCreate(chatId).websocketFlow(userName))
-    }
-  }*/
 
   def greetings = get {
     pathEndOrSingleSlash {
@@ -44,8 +39,16 @@ object Server extends App {
     }
   }
 
+  def createChar =
+    path("create" / IntNumber) { chatId =>
+      println(chatId)
+      ChatRooms.findOrCreate(chatId)
+      complete("Welcome to websocket server bitch")
+    }
 
-  val route = greetings ~ chat
+
+
+  val route = greetings ~ createChar ~ chat
 
   val binding = Http().bindAndHandle(route, interface, port)
   println(s"Server is now online at http://$interface:$port\nPress RETURN to stop...")
@@ -58,5 +61,6 @@ object Server extends App {
 
 
 }
+
 
 
