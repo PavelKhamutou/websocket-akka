@@ -4,7 +4,7 @@
 		module="websockets_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160307180915"
+		publication="20160310174347"
 	>
 		<description>
 		WebSockets

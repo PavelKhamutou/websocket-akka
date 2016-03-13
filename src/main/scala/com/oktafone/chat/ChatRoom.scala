@@ -9,13 +9,9 @@ import com.oktafone.chat.events._
 /**
   * Created by pk on 3/6/16.
   */
-class ChatRoom(roomId: Int, actorSystem: ActorSystem, OptRef: Option[ActorRef] = None) {
+class ChatRoom(roomId: Int, chatRoomActor: ActorRef) {
 
-  private[this] val chatRoomActor = OptRef match {
-    case Some(ref) => ref
-    case None => actorSystem.actorOf(Props(classOf[ChatRoomActor], roomId), s"room$roomId")
-  }
-
+//  private[this] val chatRoomActor = actorSystem.actorOf(Props(classOf[ChatRoomActor], roomId), roomId.toString)
 
   def websocketFlow(user: String): Flow[Message, Message, _] =
     Flow.fromGraph(GraphDSL.create(Source.actorRef[ChatMessage](5, OverflowStrategy.fail)) {
@@ -51,6 +47,6 @@ class ChatRoom(roomId: Int, actorSystem: ActorSystem, OptRef: Option[ActorRef] =
 
 
 object ChatRoom {
-  def apply(roomId: Int)(implicit actorSystem: ActorSystem) = new ChatRoom(roomId, actorSystem)
-  def apply(roomId: Int, ref: ActorRef)(implicit actorSystem: ActorSystem) = new ChatRoom(roomId, actorSystem, Some(ref))
+  def apply(roomId: Int)(implicit actorSystem: ActorSystem) = new ChatRoom(roomId, actorSystem.actorOf(Props(classOf[ChatRoomActor], roomId), roomId.toString))
+  def apply(roomId: Int, remoteActorRef: ActorRef) = new ChatRoom(roomId, remoteActorRef)
 }

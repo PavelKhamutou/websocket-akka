@@ -17,3 +17,6 @@ libraryDependencies ++= {
 
   )
 }
+
+
+fork in run := true

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/websockets.iml" filepath="$PROJECT_DIR$/.idea/modules/websockets.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/websockets-build.iml" filepath="$PROJECT_DIR$/.idea/modules/websockets-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/websocket-akka.iml" filepath="$PROJECT_DIR$/.idea/modules/websocket-akka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/websocket-akka-build.iml" filepath="$PROJECT_DIR$/.idea/modules/websocket-akka-build.iml" />
     </modules>
   </component>
 </project>

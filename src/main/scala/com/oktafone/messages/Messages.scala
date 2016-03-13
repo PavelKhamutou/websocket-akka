@@ -11,4 +11,5 @@ object Messages {
   object NotFound extends Result
   case class Found(actor: ActorRef) extends Result
   object IsFound
+  case class Founder(actorRef: ActorRef)
 }
