@@ -1,3 +1,6 @@
+*.class
+*.log
+*.sc
 logs/
 .sbtserver/
 target/
