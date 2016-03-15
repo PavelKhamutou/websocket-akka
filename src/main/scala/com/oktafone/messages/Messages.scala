@@ -6,10 +6,9 @@ import akka.actor.ActorRef
   * Created by pk on 3/6/16.
   */
 object Messages {
-  case class LookUp(roomId: Int)
-  trait Result
-  object NotFound extends Result
-  case class Found(actor: ActorRef) extends Result
-  object IsFound
-  case class Founder(actorRef: ActorRef)
+  trait MessageType
+  case class ChatMessage(msg: String) extends MessageType
+  case class FromWebSocketMessage(msg: String) extends MessageType
+  case class OutActorRef(actor: ActorRef) extends MessageType
+  case class UserLeft(name: String) extends MessageType
 }

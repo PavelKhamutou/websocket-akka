@@ -827,9 +827,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 402ms :: artifacts dl 22ms
+[debug] :: resolution report :: resolve 657ms :: artifacts dl 8ms
 [debug] 	report for websockets#websockets$sbt_2.11;1.0 default produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sbt_2.11-default.xml
-[debug] 	resolve done (402ms resolve - 22ms download)
+[debug] 	resolve done (657ms resolve - 8ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: websockets#websockets$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1234,6 +1234,6 @@
 [debug] 	[NOT REQUIRED] com.github.mdr#ascii-graphs_2.10;0.0.3!ascii-graphs_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#sbt-core-next;0.1.1!sbt-core-next.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#core-next_2.10;0.1.1!core-next_2.10.jar(src)
-[debug] :: resolution report :: resolve 91ms :: artifacts dl 15ms
+[debug] :: resolution report :: resolve 59ms :: artifacts dl 175ms
 [debug] 	report for websockets#websockets$sources_2.11;1.0 default produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_2.11-default.xml
-[debug] 	resolve done (91ms resolve - 15ms download)
+[debug] 	resolve done (59ms resolve - 175ms download)

@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13d952e1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e7b5459
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -15,7 +15,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64249cae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12322011
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-stream_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->runtime]
@@ -23,7 +23,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@269cd45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7863b308
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->runtime]
@@ -31,7 +31,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70b58e41
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e176f75
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -39,7 +39,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17c38e5e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36d2bc09
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	found org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->runtime]
@@ -47,7 +47,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-akka_2.11;0.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ed715dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15c0cef6
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-akka_2.11;0.1.3
 [debug] 	found com.typesafe#ssl-config-akka_2.11;0.1.3 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->runtime]
@@ -55,7 +55,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.1.3 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-core_2.11;0.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8db1ce4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53605416
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-core_2.11;0.1.3
 [debug] 	found com.typesafe#ssl-config-core_2.11;0.1.3 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->runtime]
@@ -63,7 +63,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.1.3 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c675fc5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ff9b345
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -71,7 +71,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1767ac22
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44dcb1ca
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	found org.reactivestreams#reactive-streams;1.0.0 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->runtime]
@@ -79,7 +79,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-experimental_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-http-experimental_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f4b94a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20f6158f
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-http-experimental_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-http-experimental_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-experimental_2.11;2.4.2 [compile->runtime]
@@ -87,7 +87,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-experimental_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-core_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-http-core_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@208e42f8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35fe975e
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-http-core_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-http-core_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-core_2.11;2.4.2 [compile->runtime]
@@ -95,15 +95,23 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-http-core_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-parsing_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e1b75db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5299cea6
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-parsing_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-parsing_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[info] Resolving com.typesafe.akka#akka-cluster_2.11;2.4.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@164cffb
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster_2.11;2.4.2
+[debug] 	found com.typesafe.akka#akka-cluster_2.11;2.4.2 in sbt-chain
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dcec077
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75535c73
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
@@ -111,7 +119,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-protobuf_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eccb65d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4122fa50
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-protobuf_2.11;2.4.2
 [debug] 	found com.typesafe.akka#akka-protobuf_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->runtime]
@@ -119,7 +127,7 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-protobuf_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.10.3.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@612ff3ee
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f353b95
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.10.3.Final
 [debug] 	found io.netty#netty;3.10.3.Final in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->runtime]
@@ -127,12 +135,20 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->io.netty#netty;3.10.3.Final [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f4c854a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b147389
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[info] Resolving com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ef48eb3
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-cluster-tools_2.11;2.4.2
+[debug] 	found com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 in sbt-chain
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [runtime]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [compile]
@@ -184,6 +200,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->compile]
@@ -200,6 +220,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -248,6 +272,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->compile]
@@ -264,6 +292,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [test]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [runtime]
@@ -316,6 +348,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->compile]
@@ -332,6 +368,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -380,6 +420,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->compile]
@@ -396,6 +440,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
@@ -444,6 +492,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->compile]
@@ -460,6 +512,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -515,6 +571,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->compile]
@@ -531,6 +591,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->default(compile)]
@@ -581,6 +645,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile-internal->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile-internal->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile-internal->compile]
@@ -597,6 +665,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [runtime]
@@ -649,6 +721,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->compile]
@@ -665,6 +741,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -713,6 +793,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->compile]
@@ -729,6 +813,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->runtime]
@@ -778,6 +866,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime-internal->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime-internal->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime-internal->compile]
@@ -794,6 +886,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [test-internal]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [test]
@@ -847,6 +943,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [compile->compile]
@@ -863,6 +963,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
@@ -911,6 +1015,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [runtime->compile]
@@ -927,6 +1035,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [runtime->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
@@ -975,6 +1087,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test->compile]
@@ -991,6 +1107,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test->master]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->default(compile)]
@@ -1041,6 +1161,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-parsing_2.11;2.4.2 [test-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster_2.11;2.4.2 [test-internal->master]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test-internal->default(compile)]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.4.2 [test-internal->compile]
@@ -1057,6 +1181,10 @@
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->runtime]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->compile]
 [debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->master]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test-internal->default(compile)]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test-internal->runtime]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test-internal->compile]
+[debug] == resolving dependencies websockets#websockets$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-cluster-tools_2.11;2.4.2 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for websockets#websockets$sources_javadoc_2.11;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -1146,6 +1274,9 @@
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.11;2.4.2!akka-parsing_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.11;2.4.2!akka-parsing_2.11.jar
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.11;2.4.2!akka-parsing_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster_2.11;2.4.2!akka-cluster_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster_2.11;2.4.2!akka-cluster_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster_2.11;2.4.2!akka-cluster_2.11.jar
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.11;2.4.2!akka-remote_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.11;2.4.2!akka-remote_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.11;2.4.2!akka-remote_2.11.jar
@@ -1158,6 +1289,9 @@
 [debug] 	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar
 [debug] 	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar(src)
 [debug] 	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster-tools_2.11;2.4.2!akka-cluster-tools_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster-tools_2.11;2.4.2!akka-cluster-tools_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster-tools_2.11;2.4.2!akka-cluster-tools_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
@@ -1166,7 +1300,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
-[debug] :: resolution report :: resolve 331ms :: artifacts dl 20ms
+[debug] :: resolution report :: resolve 240ms :: artifacts dl 52ms
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 compile produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-compile.xml
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 runtime produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-runtime.xml
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 test produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-test.xml
@@ -1180,4 +1314,4 @@
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 docs produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-docs.xml
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 pom produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-pom.xml
 [debug] 	report for websockets#websockets$sources_javadoc_2.11;1.0 scala-tool produced in /home/pk/IdeaProjects/websocket-akka/target/resolution-cache/reports/websockets-websockets$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (331ms resolve - 20ms download)
+[debug] 	resolve done (240ms resolve - 52ms download)

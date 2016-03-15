@@ -1,13 +1,13 @@
-New log file opened at Mon Mar 07 22:35:00 CET 2016 by 4813@pkpc
-Taking next connection to: 34708
-New client attempting to connect on port: 51862-34708
-  Address = /127.0.1.1:34708
-This client on port 51862 has uuid 5814d9fa-65e7-4c00-b0c5-96abc3343429 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-5814d9fa-65e7-4c00-b0c5-96abc3343429
-Taking next connection to: 34708
-New client attempting to connect on port: 51864-34708
-  Address = /127.0.1.1:34708
-Handshake exception on socket: 51864
+New log file opened at Sun Mar 13 20:25:26 CET 2016 by 8414@pkpc
+Taking next connection to: 46515
+New client attempting to connect on port: 38826-46515
+  Address = /127.0.1.1:46515
+This client on port 38826 has uuid d0494295-bcca-46a9-9537-1e37ea21e615 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-d0494295-bcca-46a9-9537-1e37ea21e615
+Taking next connection to: 46515
+New client attempting to connect on port: 38828-46515
+  Address = /127.0.1.1:46515
+Handshake exception on socket: 38828
 sbt.impl.ipc.HandshakeException: Unable to perform handshake
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
 	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
@@ -17,9 +17,9 @@ Caused by: java.io.EOFException
 	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
 	... 2 more
-Taking next connection to: 34708
-New client attempting to connect on port: 51866-34708
-  Address = /127.0.1.1:34708
-This client on port 51866 has uuid 7d1e86f9-4372-46a8-baa1-4f82b7b98d64 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-5814d9fa-65e7-4c00-b0c5-96abc3343429, activator-7d1e86f9-4372-46a8-baa1-4f82b7b98d64
-Taking next connection to: 34708
+Taking next connection to: 46515
+New client attempting to connect on port: 38830-46515
+  Address = /127.0.1.1:46515
+This client on port 38830 has uuid e7309890-12c3-44b3-b399-c21d9d5d5f7f configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-d0494295-bcca-46a9-9537-1e37ea21e615, activator-e7309890-12c3-44b3-b399-c21d9d5d5f7f
+Taking next connection to: 46515
