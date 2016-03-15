@@ -1,6 +1,7 @@
-logs
-target
-.idea
+logs/
+.sbtserver/
+target/
+.idea/
 /.idea_modules
 /.classpath
 /.project
